@@ -1,0 +1,63 @@
+
+
+{
+    "users": [
+      {
+        "id":1,
+        "name":"Edik",
+        "surname":"Tarasenko",
+        "balance":1500
+      },
+      {
+        "id":9,
+        "name":"Oleksandr",
+        "surname":"Sviridovich",
+        "balance":149200
+      }
+    ],
+    "products":[
+    {
+      "id":1,
+      "name": "LED display",
+      "description": "Can display 2-lines X 16-character",
+      "price": 92,
+      "author_id":1,
+      "photo_url":""
+    },
+    {
+        "id":2,
+      "name": "Arduino UNO",
+      "description": "Brand new and high quality",
+      "price": 180,
+      "author_id":3,
+      "photo_url":""
+    },
+    {
+        "id":3,
+        "name": "ESP8266 5V",
+        "description": "This wirelays relay is based on the AI thinker",
+        "price": 300,
+        "author_id":2,
+        "photo_url":""
+    },
+    {
+        "id":4,
+        "name": "RGB",
+        "description": "Can make color party",
+        "price": 92,
+        "author_id":1,
+        "photo_url":""
+    },
+    {
+        "id":5,
+        "name": "Resistor 10k",
+        "description": "Can resist the voltage",
+        "price": 180,
+        "author_id":3,
+        "photo_url":""
+    }
+
+    ]
+  
+  }
+  
